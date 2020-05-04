@@ -1,0 +1,13 @@
+COVID Project 
+	- Code up simulations of disease spread given factors of 
+		- Domestic Mobility/ Social Distancing
+		- Movement and exchange of people between communities
+		- What effect do they have on the SEIR model
+	- For the SIR Fit
+		- Add constraints on beta and gamma using interpolants
+		- SIRD model shouldn't be too difficult now
+	- SEIR models on current COVID19 data
+	- Potential SEIRD model
+	- Get JSON of Champaign County
+	- Apply Procedure on CU
+	- Possible PDE Epidemic model
