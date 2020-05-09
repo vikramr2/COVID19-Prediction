@@ -7,7 +7,7 @@
   
 ## Currently working on...
 * Prediction Range by setting transitional variables as the median of given experimental constants plus or minus the median absolute deviation of the given constants
- * Essentially, this prediction is going to be a shaded region
+  * Essentially, this prediction is going to be a shaded region
   
 ## Implications
 * App for adjustable 'what if' markers to result in a prediction
