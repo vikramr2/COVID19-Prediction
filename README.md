@@ -2,7 +2,7 @@
 ## Currently have several approaches to modeling
 * Logistic Curve (Ill Posed, but some fits work)
 * SIR/SIRD model with transitional variables (death, recovery, infection rates) modelled as high degree polynomial functions
- * Some fits work, but with unbounded functions come difficulties
+ ** Some fits work, but with unbounded functions come difficulties
 * Third, using the same approach but with Chebyshev Interpolants instead of polynomial fits
   
 ## Currently working on...
